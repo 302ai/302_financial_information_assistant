@@ -1,0 +1,110 @@
+{
+  "clearAllChartList": "清空图表记录",
+  "clearChatList": "清空聊天记录",
+  "global": {
+    "error": {
+      "code-10001": "缺少 302 API 密钥",
+      "code-10002": "该工具已禁用/删除，更多请访问 <Gw></Gw>",
+      "code-10003": "网络错误，请稍后重试",
+      "code-10004": "账户余额不足，创建属于自己的工具，更多请访问 <Gw></Gw>",
+      "code-10005": "账户凭证过期，请重新登录",
+      "code-10006": "账户总额度已达上限，更多请访问 <Gw></Gw>",
+      "code-10007": "账户日额度已达上限，更多请访问 <Gw></Gw>",
+      "code-10008": "当前无可用通道，更多请访问 <Gw></Gw>",
+      "code-10009": "不支持当前API功能，更多请访问 <Gw></Gw>",
+      "code-10010": "不支持当前API功能，更多请访问 <Gw></Gw>",
+      "code-10011": "无效的请求",
+      "code-10012": "该免费工具在本小时的额度已达上限，请访问 <Gw></Gw> 生成属于自己的工具",
+      "code-10018": "账户月额度已达上限，更多请访问 <Gw></Gw>",
+      "code-1024": "AI接口连接超时， 请稍后重试或者联系 <Gw></Gw>",
+      "code-default": "未知错误，更多请访问 <Gw></Gw>",
+      "code_invalid": "分享码错误, 更多请访问 302.AI",
+      "copy_failed": "复制失败",
+      "network_error": "网络服务错误, 请查看网络状态或稍后再试!",
+      "not_found": "页面不存在",
+      "tool_deleted": "该工具已删除, 更多请访问 <site>302.AI</site>",
+      "tool_disabled": "该工具已禁用, 更多请访问 <site>302.AI</site>",
+      "unknown_error": "发生未知错误, 请联系客服"
+    },
+    "footer": {
+      "copyright_content": "本项目由<logo></logo>驱动",
+      "copyright_leading": "内容由AI生成，仅供参考"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "切换语言"
+      },
+      "theme_switcher": {
+        "dark": "暗色模式",
+        "light": "亮色模式",
+        "system": "跟随系统",
+        "toggle_theme": "切换主题"
+      },
+      "tool_info": {
+        "description": "当前工具相关信息",
+        "title": "关于 AI财讯助手",
+        "trigger": {
+          "label": "打开/关闭工具信息弹窗"
+        }
+      }
+    }
+  },
+  "home": {
+    "AreYouSureToClearAllData": "是否确认清空所有数据?",
+    "ClearChatHistory": "清空聊天记录",
+    "CopyTextError": "无法复制文本",
+    "CopyTextOk": "文本已成功复制到剪贴板",
+    "Textarea": {
+      "placeholder": "输入信息",
+      "placeholderTips": "请输入信息"
+    },
+    "cancel": "取消",
+    "confirm": "确认",
+    "title": "AI财讯助手"
+  },
+  "newChat": "打开新的聊天",
+  "presets": {
+    "AreYouSureToClearAllData": "是否确认清空所有数据?",
+    "ChatPanel": {
+      "EventsAboutAmazon": "关于亚马逊的事件？",
+      "HowIsTheStockMarket": "股市怎么样",
+      "HowIsTheStockMarketPerformingTodayBySector": "今天股市各板块的表现如何？",
+      "ShowMeAScreener": "给我看一个筛选器",
+      "ShowMeAScreenerToFindNewStocks": "显示一个筛选器来寻找新股票",
+      "ShowMeAStockChart": "显示股票图表",
+      "ShowMeAStockChartForGOOGL": "显示 $GOOGL 的股票图表",
+      "ToFindNewStocks": "寻找新股票",
+      "WhatAreMicrosoft": "微软的是什么",
+      "WhatAreMicrosoftsLatestFinancials": "微软最新的财务数据是什么？",
+      "WhatAreSomeRecent": "最近有哪些",
+      "WhatAreSomeRecentEventsAboutAmazon": "亚马逊最近发生了哪些事件？",
+      "WhatIsThePrice": "价格是多少",
+      "WhatIsThePriceOfAppleStock": "苹果股票的价格是多少？",
+      "exampleMessages": {
+        "Copywriting_heading_1": "特斯拉股价动态聚焦",
+        "Copywriting_heading_2": "比亚迪股价追踪",
+        "Copywriting_heading_3": "京东股价洞察",
+        "Copywriting_heading_4": "美联储政策解读与财经影响",
+        "Copywriting_heading_5": "外贸企业应对汇率波动的策略",
+        "Copywriting_heading_6": "聚焦金融科技监管政策",
+        "Copywriting_subheading_1": "特斯拉股价最新变动及影响因素分析",
+        "Copywriting_subheading_2": "比亚迪股票价格走势及市场表现",
+        "Copywriting_subheading_3": "京东股价最新变动与未来趋势展望",
+        "Copywriting_subheading_4": "美联储最新政策对金融市场和经济的影响分析",
+        "Copywriting_subheading_5": "汇率波动下外贸企业的应对策略与经济影响",
+        "Copywriting_subheading_6": "金融科技监管政策的演变及其对行业创新的影响分析"
+      },
+      "exampleMessages1": "苹果股价实时追踪",
+      "forGOOGL": "$GOOGL 美元",
+      "latestFinancials": "最新的财务状况？",
+      "ofAppleInc": "苹果公司的？",
+      "performingTodayBySector": "今天按行业表现？"
+    },
+    "Textarea": {
+      "placeholder": "输入信息",
+      "placeholderTips": "请输入信息"
+    }
+  },
+  "updateChartList": "更新图表信息",
+  "update_fail": "更新失败"
+}
