@@ -1,27 +1,38 @@
-# <p align="center">💻 AI ファイナンシャルアシスタント 🚀✨</p>
+# <p align="center">📈 AI 金融情報アシスタント 🚀✨</p>
 
-<p align="center">AI ファイナンシャルアシスタントは、大規模言語モデルを利用して、ユーザーがリアルタイムの経済ニュースと正確な株式市場分析を簡単に入手できるようサポートします。</p>
+<p align="center">AI金融アシスタントはAIとチャットすることで、株式ファンドなどのオンライン財経情報を迅速かつ正確に取得し、ユーザーのためにデータと情報をインテリジェントに分析し、グラフを描いて財経の動きを示すことができる。</p>
 
-<p align="center"><a href="https://302.ai/tools/finance/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/ja/tools/finance/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![インターフェースプレビュー](docs/preview.png)    
+![](docs/302_AI_Financial_Information_Assistant_jp.png)    
 
-[302.AI](https://302.ai)の[AI ファイナンシャルアシスタント](https://302.ai/tools/finance/)のオープンソースバージョンです。
+[302.AI](https://302.ai/ja/)の[AI ファイナンシャルアシスタント](https://302.ai/ja/tools/finance/)のオープンソースバージョンです。
 302.AIに直接ログインし、ゼロコード、ゼロ設定でオンラインバージョンを使用できます。
 または、このプロジェクトを自分のニーズに合わせて修正し、302.AIのAPI KEYを入力して自身でデプロイすることもできます。
 
-## プロジェクトの特徴
+## インターフェースプレビュー
+トップページに検索したい財経系情報を入力します。
+![](docs/302_AI_Financial_Information_Assistant_jp_screenshot_01.png)
+
+AIと対話する情報に基づいて右側に対応するグラフを生成し、リフレッシュすることでリアルタイムのグラフ情報を取得することができる。
+![](docs/302_AI_Financial_Information_Assistant_jp_screenshot_02.png)
+
+## 📐 プロジェクトの特徴
 - インテリジェントクエリ：ユーザーの入力に基づき、AIが最適なツールを自動選択して財務情報を検索します。
 - リアルタイム株式市場チャート：取得したデータに基づき、直感的な株式市場トレンドチャートを自動的にレンダリングします。
 - ユーザーフレンドリーなインターフェース：シンプルで直感的なユーザーインターフェースで、迅速な検索と情報取得が可能です。
-- 多言語サポート：複数の言語をサポートし、国際的なユーザーのニーズに応えます。
 
 ## 🌍 多言語サポート
 - 中国語インターフェース
 - English Interface
 - 日本語インターフェース
+
+## 🚩 将来のアップデート計画
+- [ ] 新しい財経ニュースのローテーションバー
+- [ ] 新規履歴機能
+
 
 AI ファイナンシャルアシスタントを通じて、リアルタイムの経済ニュースと正確な株式市場分析を簡単に入手できます。インテリジェントシステムが、パーソナライズされた財務洞察を提供します。🎉💻 AIが駆動する新しいコードの世界を一緒に探索しましょう！🌟🚀
 
@@ -34,7 +45,7 @@ AI ファイナンシャルアシスタントを通じて、リアルタイム�
 2. 依存関係をインストール `pnpm install`
 3. 302のAPI KEYを設定 (.env.exampleを参照)
 4. プロジェクトを実行 `pnpm dev`
-5. ビルドとデプロイ `docker build -t document-editor . && docker run -p 3000:3000 302_financial_information_assistant`
+5. ビルドとデプロイ `docker build -t financial_information_assistant . && docker run -p 3000:3000 302_financial_information_assistant`
 
 ## ✨ 302.AIの紹介 ✨
 [302.AI](https://302.ai)は、企業向けAIアプリケーションプラットフォームで、従量課金制、すぐに使える、オープンソースエコシステムを特徴としています。✨
