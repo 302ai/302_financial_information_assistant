@@ -1,28 +1,39 @@
-# <p align="center">💻 AI 财讯助手 🚀✨</p>
+# <p align="center">📈 AI 财讯助手 🚀✨</p>
 
-<p align="center">AI 财讯助手利用语言大模型辅助用户轻松获取实时的财经新闻和精准的股市分析。</p>
+<p align="center">AI财讯助手通过与AI聊天，可以快速精准地获取股票基金等在线财经信息，为用户智能分析数据和资讯，并绘制图表展现财经走势。</p>
 
 <p align="center"><a href="https://302.ai/tools/finance/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![界面预览](docs/preview.png)    
+![](docs/302_AI_Financial_Information_Assistant_cn.png)
 
 
 来自[302.AI](https://302.ai)的[AI 财讯助手](https://302.ai/tools/finance/)的开源版本。
 你可以直接登录302.AI，零代码零配置使用在线版本。
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
-## 项目特性
+## 界面预览
+在首页中输入你想查询的财经类信息。
+![](docs/302_AI_Financial_Information_Assistant_screenshot_01.png)                
+
+根据与AI对话的信息，在右侧生成对应的图表，可通过刷新来获取实时的图表信息。
+![](docs/302_AI_Financial_Information_Assistant_screenshot_02.png)
+
+## 📐 项目特性
 - 智能查询 : 基于用户输入，AI 自动选择最适合的工具来查询财经信息。
 - 实时股市图表 : 根据查询到的数据，自动渲染直观的股市走势图表。
 - 用户友好界面 : 简洁直观的用户界面，便于快速查询和信息获取。
-- 多语言支持 : 支持多种语言，满足国际用户的需求。
 
 ## 🌍 多语言支持
 - 中文界面
 - English Interface
 - 日本語インターフェース
+
+## 🚩 未来更新计划
+- [ ] 新增财经新闻轮播条
+- [ ] 新增历史记录功能
+
 
 通过 AI 财讯助手，您可以轻松获取实时的财经新闻和精准的股市分析。智能系统都能为您提供个性化的财经洞察。🎉💻 让我们一起探索AI驱动的代码新世界吧! 🌟🚀
 
@@ -35,7 +46,7 @@
 2. 安装依赖 `pnpm install`
 3. 配置302的API KEY 参考.env.example
 4. 运行项目 `pnpm dev`
-5. 打包部署 `docker build -t document-editor . && docker run -p 3000:3000 302_financial_information_assistant`
+5. 打包部署 `docker build -t financial_information_assistant . && docker run -p 3000:3000 302_financial_information_assistant`
 
 
 ## ✨ 302.AI介绍 ✨
