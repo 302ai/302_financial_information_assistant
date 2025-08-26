@@ -2,13 +2,13 @@
 
 <p align="center">AI金融アシスタントはAIとチャットすることで、株式ファンドなどのオンライン財経情報を迅速かつ正確に取得し、ユーザーのためにデータと情報をインテリジェントに分析し、グラフを描いて財経の動きを示すことができる。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/finance/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/48" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_Financial_Information_Assistant_jp.png)    
 
-[302.AI](https://302.ai/ja/)の[AI ファイナンシャルアシスタント](https://302.ai/ja/tools/finance/)のオープンソースバージョンです。
+[302.AI](https://302.ai/ja/)の[AI ファイナンシャルアシスタント](https://302.ai/product/detail/48)のオープンソースバージョンです。
 302.AIに直接ログインし、ゼロコード、ゼロ設定でオンラインバージョンを使用できます。
 または、このプロジェクトを自分のニーズに合わせて修正し、302.AIのAPI KEYを入力して自身でデプロイすることもできます。
 
